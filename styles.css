@@ -15,3 +15,6 @@ img {
     max-width: 100%;
     height: auto;
 }
+@media all and (max-width: 600px) and (orientation:landscape) 
+{ font-family{ font-family: Verdana, sans-serif;}
+}
