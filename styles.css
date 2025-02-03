@@ -1,0 +1,17 @@
+﻿body
+{
+    background-color: black;
+    font-family: Arial, sans-serif;
+    margin: 5px;
+}
+p {
+    color:white;
+    font-size:2em;
+}
+ol {
+    color:white;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
